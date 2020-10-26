@@ -1,0 +1,23 @@
+{
+  "name": "hapi-demo",
+  "version": "1.0.0",
+  "description": "demo from hapi js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+    },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jengiskhan89/hapi-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jengiskhan89/hapi-example/issues"
+  },
+  "homepage": "https://github.com/jengiskhan89/hapi-example#readme",
+  "dependencies": {
+    "@hapi/hapi": "^20.0.1"
+  }
+}
